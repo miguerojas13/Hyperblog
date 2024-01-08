@@ -18,7 +18,7 @@ body {
 }
 
 #cabecera {
-    background: #33a;
+    background: blue ;
     box-shadow:  0px 2px 20px 0px rgba(0, 0, 0, 0.6);
     color: bisque;
     font-weight: bold;
@@ -26,6 +26,10 @@ body {
     padding: 0.5em;
 }
 
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
 
 
 #cabecera #tagline
